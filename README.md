@@ -133,4 +133,4 @@ Base score decreases with wrong guesses and hints.
 The game uses a purple-themed GUI inspired by Wordle.
 
 
-<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/71245f59-35bb-48b3-9f68-989e49fd86f2" />
+
